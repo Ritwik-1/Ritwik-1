@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritwik-1" alt="ritwik-1" /></a> </p>
 
-- 🔭 I’m currently working on [Realtime Fraud Flagger](https://github.com/Ritwik-1/Fraud-Detection-in-Online-Transactions)
+- 🔭 I’m currently working on [Realtime Fraud Flagger](https://github.com/Ritwik-1/Real-Time-Fraud-Flagger-)
 
-- 🌱 I’m currently learning **Model quantization, Agentic workflows**
+- 🌱 I’m currently learning **Model quantization, Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://ritwikwebsite.vercel.app](https://ritwikwebsite.vercel.app)
 
