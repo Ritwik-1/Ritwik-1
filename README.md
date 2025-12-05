@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritwik Kashyap</h1>
+<h1 align="center">Hey, I'm Ritwik Kashyap</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwik-1&label=Profile%20views&color=0e75b6&style=flat" alt="ritwik-1" /> </p>
